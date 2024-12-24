@@ -1,0 +1,2 @@
+# cbnotes
+Daily notes.
